@@ -1,3 +1,4 @@
 # automating-aws-with-python
 
-TESTING
+
+Python and AWS automation
